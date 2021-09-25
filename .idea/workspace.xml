@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f411ffb8-51ce-41c2-97f8-bf63b1c4aaea" name="Default Changelist" comment="Updated files">
-      <change beforePath="$PROJECT_DIR$/media/thinking.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/media/thinking.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1632585796842</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Updated files">
+      <created>1632585978520</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1632585978520</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Updated files">
+      <created>1632586092357</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1632586092357</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
